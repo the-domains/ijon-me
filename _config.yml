@@ -22,7 +22,7 @@ color:
     - '#b1adc6'
     - '#cbf55e'
   brandStrength: 0
-  lightness: 0.5
+  lightness: 0.8
   saturation: 0.5
 purpose:
   - name: awareness
