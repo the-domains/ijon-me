@@ -32,16 +32,17 @@ app_links:
     type: web
 title: vacuum molding
 datePublished: '2015-07-01T17:28:02.908Z'
+dateModified: '2015-07-01T17:50:53.100Z'
+sourcePath: _posts/2015-07-01-c-base-vacuum-molding-test-2.md
+published: true
 authors: []
 publisher:
   name: YouTube
   domain: www.youtube.com
   url: 'http://www.youtube.com/'
   favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-dateModified: '2015-07-01T17:49:47.454Z'
-sourcePath: _posts/2015-07-01-c-base-vacuum-molding-test-2.md
-published: true
-_type: VideoObject
+url: c-base-vacuum-molding-test-2/index.html
+_type: Article
 _context: 'http://schema.org'
 
 ---
