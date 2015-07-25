@@ -1,6 +1,6 @@
 name: ijon.me
 favicon: null
-layout_spectrum: 0.50424
+layout_spectrum: 0.02119
 typography_spectrum: 0.52119
 cta:
   domain: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#000000'
-    - '#605c56'
-    - '#a48c6e'
-    - '#a61910'
-    - '#ffffff'
+    - '#2b2b2b'
+    - '#636363'
+    - '#101010'
+    - '#be1e22'
+    - '#d76833'
   brandStrength: 0
   lightness: 0.8
   saturation: 0.5
