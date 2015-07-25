@@ -1,23 +1,26 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'http://hybr.de'
-  name: Hybr
-  favicon: null
-  domain: hybr.de
+isBasedOnUrl: 'http://hybr.de/?p=225'
+inLanguage: de
+starred: false
 keywords: []
 description: ''
-inLanguage: de
+author: []
+related: []
 app_links: []
-isBasedOnUrl: 'http://hybr.de/?p=225'
-title: 'Hyperbandrauschen " Blog Archive " Sendung vom 09.09.2014 mit Ijon über die MS Stubnitz'
+title: Hyperbandrauschen mit Ijon über die MS Stubnitz
 datePublished: '2015-07-25T11:46:56.309Z'
-dateModified: '2015-07-25T11:46:56.309Z'
+dateModified: '2015-07-25T11:58:28.026Z'
 sourcePath: _posts/2015-07-25-hyperbandrauschen-blog-archive-sendung-vom-09092014-mi.md
 published: true
-_context: 'http://schema.org'
+authors: []
+publisher:
+  name: Hybr
+  domain: hybr.de
+  url: 'http://hybr.de'
+  favicon: null
 _type: MediaObject
+_context: 'http://schema.org'
 
 ---
-<article style=""><h1>Hyperbandrauschen " Blog Archive " Sendung vom 09&amp;period;09&amp;period;2014 mit Ijon über die MS Stubnitz</h1><p></p><img src="http://hybr.de/wp-content/themes/citydreams/images/bg.jpg" /></article>
+Heute war Ijon zu Gast im Studio bei macro. Wir plauderten über das Kultur-Raum-Schiff MS Stubnitz. Es ist das beeindruckende Projekt eines fünfzigjährigen mobilen Kulturschiffs und technisches Denkmal, das funktionsfähig unterwegs ist. Ein c-base E.V.A-Aussenmissionsteam besuchte das Schiff auf dem Trockendock in Hamburg.
+Wir sprachen auch über die Crowdfundingkampagne, um die MS Stubnitz weiter im Fahrwasser zu halten. Sie finanziert die Dockung und sichert weitere 5 Jahre des Schiffes. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9714ad22-801a-4e96-96ef-a21d1ae927d5.jpg)
