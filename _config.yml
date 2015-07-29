@@ -22,9 +22,9 @@ color:
     - '#be1e22'
     - '#d76833'
   brandStrength: 0.9375
-  lightness: 0.8
-  saturation: 0.5
-  rhythmicContrast: 0.5
+  lightness: 0
+  saturation: 0
+  rhythmicContrast: 1
 purpose:
   - name: awareness
     item: null
