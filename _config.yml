@@ -23,8 +23,8 @@ color:
     - '#d76833'
   brandStrength: 0.9375
   lightness: 0
-  saturation: 0
-  rhythmicContrast: 1
+  saturation: 1
+  rhythmicContrast: 0.5
 purpose:
   - name: awareness
     item: 4c178557-e67b-4445-b3de-72825df2f749
