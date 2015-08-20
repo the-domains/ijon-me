@@ -13,7 +13,7 @@ app_links: []
 isBasedOnUrl: 'http://www.zeit.de/digital/internet/2011-02/reprap-makerbot/seite-2'
 title: 'Reprap und Makerbot: Wenn Konsumenten zu Produzenten werden'
 datePublished: '2015-07-25T11:46:56.420Z'
-dateModified: '2015-07-25T12:17:08.603Z'
+dateModified: '2015-08-20T07:12:14.833Z'
 sourcePath: _posts/2015-07-25-reprap-und-makerbot-wenn-konsumenten-zu-produzenten-werden.md
 published: true
 _context: 'http://schema.org'
