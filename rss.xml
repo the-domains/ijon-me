@@ -5,7 +5,7 @@
         <description><![CDATA[ijon.me]]></description>
         <link>http://ijon.me/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 20 Aug 2015 07:13:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Aug 2015 07:13:21 GMT</lastBuildDate>
         <atom:link href="http://ijon.me/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[website of ijon]]></title>
@@ -13,6 +13,13 @@
             <link>http://ijon.me/website-of-ijon/index.html</link>
             <guid isPermaLink="false">4c178557-e67b-4445-b3de-72825df2f749</guid>
             <pubDate>Wed, 01 Jul 2015 16:33:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[on Stage]]></title>
+            <description><![CDATA[<article><h1>on Stage</h1><p>I am an experienced stage manager and moderator. I love to give talks and large audiences dont scare me. </p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d6fb1027-bbff-4f45-8205-6bec980271e2.jpg"></article>]]></description>
+            <link>http://ijon.me/on-stage/index.html</link>
+            <guid isPermaLink="false">dc1c34e5-ab14-4c6c-b4b3-d1b4e2d3503c</guid>
+            <pubDate>Wed, 01 Jul 2015 16:39:41 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Hyperbandrauschen mit Ijon über die MS Stubnitz]]></title>
