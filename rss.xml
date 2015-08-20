@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[ijon.me]]></title>
+        <description><![CDATA[ijon.me]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 20 Aug 2015 07:12:27 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[vacuum molding]]></title>
+            <description><![CDATA[<article><h1>vacuum molding</h1><p>I made a vacuum forming machine for c-base. It can vacuum form sheets of plastic of 1m by 1m size. </p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c88d3d92-c744-43d5-9d02-2abaa4d2a560.jpg"></article>]]></description>
+            <link>undefinedvacuum-molding/index.html</link>
+            <guid isPermaLink="false">74a1c588-bda4-4169-a7fc-de00067ee0a8</guid>
+            <pubDate>Wed, 01 Jul 2015 17:28:02 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
