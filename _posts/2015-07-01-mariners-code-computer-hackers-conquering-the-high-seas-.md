@@ -30,7 +30,7 @@ app_links: []
 isBasedOnUrl: 'http://edition.cnn.com/2013/01/18/tech/innovation/hackerfleet-sailing-yacht-berlin/'
 title: "Mariner's code: Computer hackers conquering the high seas - CNN.com"
 datePublished: '2015-07-01T21:41:01.327Z'
-dateModified: '2015-07-25T12:17:08.612Z'
+dateModified: '2015-08-20T07:12:15.803Z'
 sourcePath: _posts/2015-07-01-mariners-code-computer-hackers-conquering-the-high-seas-.md
 published: true
 _context: 'http://schema.org'
