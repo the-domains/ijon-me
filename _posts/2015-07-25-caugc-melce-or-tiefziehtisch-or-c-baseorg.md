@@ -23,7 +23,7 @@ app_links: []
 isBasedOnUrl: 'https://ijon.crew.c-base.org/tiefziehtischwebsite/'
 title: 'caugc-melce | Tiefziehtisch | c-base.org'
 datePublished: '2015-07-25T11:46:56.337Z'
-dateModified: '2015-07-25T12:17:08.335Z'
+dateModified: '2015-08-20T07:12:13.931Z'
 sourcePath: _posts/2015-07-25-caugc-melce-or-tiefziehtisch-or-c-baseorg.md
 published: true
 _context: 'http://schema.org'
