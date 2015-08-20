@@ -5,7 +5,7 @@
         <description><![CDATA[ijon.me]]></description>
         <link>http://ijon.me/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 20 Aug 2015 07:13:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Aug 2015 07:13:19 GMT</lastBuildDate>
         <atom:link href="http://ijon.me/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[website of ijon]]></title>
@@ -13,6 +13,14 @@
             <link>http://ijon.me/website-of-ijon/index.html</link>
             <guid isPermaLink="false">4c178557-e67b-4445-b3de-72825df2f749</guid>
             <pubDate>Wed, 01 Jul 2015 16:33:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Hyperbandrauschen mit Ijon über die MS Stubnitz]]></title>
+            <description><![CDATA[<article><h1>Hyperbandrauschen mit Ijon über die MS Stubnitz</h1><p>Heute war Ijon zu Gast im Studio bei macro. Wir plauderten über das Kultur-Raum-Schiff MS Stubnitz. Es ist das beeindruckende Projekt eines fünfzigjährigen mobilen Kulturschiffs und technisches Denkmal, das funktionsfähig unterwegs ist. Ein c-base E.V.A-Aussenmissionsteam besuchte das Schiff auf dem Trockendock in Hamburg.
+Wir sprachen auch über die Crowdfundingkampagne, um die MS Stubnitz weiter im Fahrwasser zu halten. Sie finanziert die Dockung und sichert weitere 5 Jahre des Schiffes. </p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9714ad22-801a-4e96-96ef-a21d1ae927d5.jpg"></article>]]></description>
+            <link>http://hybr.de/?p=225</link>
+            <guid isPermaLink="false">d0f25ae3-790b-4b3a-a849-14e00d680fe3</guid>
+            <pubDate>Sat, 25 Jul 2015 11:46:56 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Reprap und Makerbot: Wenn Konsumenten zu Produzenten werden]]></title>
