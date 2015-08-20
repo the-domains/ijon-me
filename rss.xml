@@ -5,7 +5,7 @@
         <description><![CDATA[ijon.me]]></description>
         <link>http://ijon.me/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 20 Aug 2015 07:13:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Aug 2015 07:13:18 GMT</lastBuildDate>
         <atom:link href="http://ijon.me/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[website of ijon]]></title>
@@ -13,6 +13,13 @@
             <link>http://ijon.me/website-of-ijon/index.html</link>
             <guid isPermaLink="false">4c178557-e67b-4445-b3de-72825df2f749</guid>
             <pubDate>Wed, 01 Jul 2015 16:33:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Reprap und Makerbot: Wenn Konsumenten zu Produzenten werden]]></title>
+            <description><![CDATA[<article><h1>Reprap und Makerbot: Wenn Konsumenten zu Produzenten werden</h1><p>Reprap und Makerbot Wenn Konsumenten zu Produzenten werden Seite 2/2: In der C-Base in Mitte steht einer der wenigen Repraps Berlins. Auch er ist Inspiration, allerdings sehr viel handfester. Allein durch die Fähigkeit, sich selbst zu vervielfältigen, verbreitet die Maschine die Idee der Open-Source-Produktion.</p></article>]]></description>
+            <link>http://www.zeit.de/digital/internet/2011-02/reprap-makerbot/seite-2</link>
+            <guid isPermaLink="false">dcf8e0b8-443b-4573-b2f6-466f0c791dee</guid>
+            <pubDate>Sat, 25 Jul 2015 11:46:56 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[sailing]]></title>
