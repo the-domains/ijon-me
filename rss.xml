@@ -5,7 +5,7 @@
         <description><![CDATA[ijon.me]]></description>
         <link>http://ijon.me/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 20 Aug 2015 07:13:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Aug 2015 07:13:28 GMT</lastBuildDate>
         <atom:link href="http://ijon.me/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[website of ijon]]></title>
@@ -13,6 +13,13 @@
             <link>http://ijon.me/website-of-ijon/index.html</link>
             <guid isPermaLink="false">4c178557-e67b-4445-b3de-72825df2f749</guid>
             <pubDate>Wed, 01 Jul 2015 16:33:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mariner's code: Computer hackers conquering the high seas - CNN.com]]></title>
+            <description><![CDATA[<article><h1>Mariner's code: Computer hackers conquering the high seas - CNN.com</h1><p>Resting on the icy cool surface of the Baltic Sea, a rickety old boat of hardy sailors works long into the night. Eyes strained, minds stretched, many have gone days without sleep. But this is no ordinary vessel of sea-faring adventurers battening down the hatches as they get set to navigate stormy waters.</p><img src="http://i2.cdn.turner.com/cnnnext/dam/assets/130117174344-hackerfleet-computer-hacker-sail-t3-entertainment.jpg"></article>]]></description>
+            <link>http://edition.cnn.com/2013/01/18/tech/innovation/hackerfleet-sailing-yacht-berlin/</link>
+            <guid isPermaLink="false">e763a6cd-a939-492e-8bfe-bc46327a69cb</guid>
+            <pubDate>Wed, 01 Jul 2015 21:41:01 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[on Stage]]></title>
