@@ -5,7 +5,7 @@
         <description><![CDATA[ijon.me]]></description>
         <link>http://ijon.me/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 25 Aug 2015 19:46:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Sep 2015 20:15:13 GMT</lastBuildDate>
         <atom:link href="http://ijon.me/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[website of ijon]]></title>
@@ -13,6 +13,13 @@
             <link>http://ijon.me/website-of-ijon/index.html</link>
             <guid isPermaLink="false">4c178557-e67b-4445-b3de-72825df2f749</guid>
             <pubDate>Wed, 01 Jul 2015 16:33:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[DIY Buchscanner-Animation (CGI)]]></title>
+            <description><![CDATA[<article><h1>DIY Buchscanner-Animation (CGI)</h1><p>Eine Animation eines selbstgebauten Buchscanners und wie er theoretisch aussehen könnte. Die Lampen und die Kameras sind der Einfachheit halber von Turbosquid. So könnte er aussehen. Bitte kommentiert an welchen Stellen ihr eine Schwachstelle der Konstruktion seht. Software: Cinema4D R11 und Premiere CS4 Music: Neelix - Glitter Pink</p><img src="https://i.ytimg.com/vi/8GrI9UFD4uo/hqdefault.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=8GrI9UFD4uo</link>
+            <guid isPermaLink="false">74fd54fd-4102-4422-8480-91c6db2a87e8</guid>
+            <pubDate>Wed, 02 Sep 2015 20:14:58 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Subantenna at Camp]]></title>
