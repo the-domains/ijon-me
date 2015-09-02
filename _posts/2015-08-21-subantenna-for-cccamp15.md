@@ -5,10 +5,10 @@ starred: false
 keywords: []
 description: 'For the CCCamp15 the c-base crew built a miniature model of our spacestation main antenna (also known as TV-Tower in Berlin Alexanderplatz) in Scale 1:42'
 title: Subantenna for CCCamp15
-dateModified: '2015-09-02T20:25:42.121Z'
+dateModified: '2015-09-02T20:26:37.225Z'
 tags:
   - ''
-datePublished: '2015-09-02T20:25:49.143Z'
+datePublished: '2015-09-02T20:26:45.065Z'
 sourcePath: _posts/2015-08-21-subantenna-for-cccamp15.md
 published: true
 authors: []
