@@ -5,7 +5,7 @@
         <description><![CDATA[ijon.me]]></description>
         <link>http://ijon.me/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 06 Sep 2015 10:49:54 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Sep 2015 10:50:06 GMT</lastBuildDate>
         <atom:link href="http://ijon.me/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[website of ijon]]></title>
@@ -13,6 +13,13 @@
             <link>http://ijon.me/website-of-ijon/index.html</link>
             <guid isPermaLink="false">4c178557-e67b-4445-b3de-72825df2f749</guid>
             <pubDate>Wed, 02 Sep 2015 20:22:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Exchange of Pilots underway on the Thamse for the MS Stubnitz]]></title>
+            <description><![CDATA[<article><h1>Exchange of Pilots underway on the Thamse for the MS Stubnitz</h1><p>This is the Meeting of MS Patrol and MS Stubnitz while sailing on the river Thamse. The new Pilot will pilot MS Stubnitz most of the way to the North Sea, while the old Pilot has done the Job for all the way out of London.</p><img src="https://i.ytimg.com/vi/v2pHopmXQUo/hqdefault.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=v2pHopmXQUo</link>
+            <guid isPermaLink="false">317cd861-71f9-46fc-a6a8-744d9ca4fd16</guid>
+            <pubDate>Sun, 06 Sep 2015 10:49:43 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[c-base >>> Raumstation unter Berlin]]></title>
@@ -70,13 +77,6 @@ Wir sprachen auch über die Crowdfundingkampagne, um die MS Stubnitz weiter im F
             <link>http://ijon.me/sailing/index.html</link>
             <guid isPermaLink="false">6d4a0b92-9f3b-4a9f-9bf0-62abb59105e0</guid>
             <pubDate>Wed, 01 Jul 2015 17:10:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Vacuum Molding Machine]]></title>
-            <description><![CDATA[<article><h1>Vacuum Molding Machine</h1><p>I made a vacuum forming machine for c-base. It can vacuum form sheets of plastic of 1m by 1m size. </p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c88d3d92-c744-43d5-9d02-2abaa4d2a560.jpg"></article>]]></description>
-            <link>http://ijon.me/vacuum-molding/index.html</link>
-            <guid isPermaLink="false">74a1c588-bda4-4169-a7fc-de00067ee0a8</guid>
-            <pubDate>Wed, 01 Jul 2015 17:28:02 GMT</pubDate>
         </item>
     </channel>
 </rss>
