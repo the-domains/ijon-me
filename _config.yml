@@ -1,4 +1,19 @@
-analytics: {}
+name: ijon.me
+favicon: null
+layout_spectrum: 0.12299
+typography_spectrum: 0.14878
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
   brandColors:
     - '#2B2B2B'
@@ -8,13 +23,9 @@ color:
     - '#D76833'
   brandStrength: 0.5625
   lightness: 0.125
-  rhythmicContrast: 0.5
   saturation: 0.75
-cta: {}
-layout_spectrum: 0.388514
-name: ijon.me
-opengraph: {}
+  rhythmicContrast: 0.5
 purpose:
   - name: awareness
     item: 'null'
-typography_spectrum: 0.14878
+    url: null
