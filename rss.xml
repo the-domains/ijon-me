@@ -5,7 +5,7 @@
         <description><![CDATA[ijon.me]]></description>
         <link>http://ijon.me/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 06 Sep 2015 10:50:20 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Sep 2015 10:03:19 GMT</lastBuildDate>
         <atom:link href="http://ijon.me/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[website of ijon]]></title>
@@ -13,6 +13,13 @@
             <link>http://ijon.me/website-of-ijon/index.html</link>
             <guid isPermaLink="false">4c178557-e67b-4445-b3de-72825df2f749</guid>
             <pubDate>Wed, 02 Sep 2015 20:22:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Hackerfleet]]></title>
+            <description><![CDATA[<article><h1>Hackerfleet</h1><p>We are creating opensource Software for Ships. Navigation, Cooperation, Shipmanagement and Crewmanagement right at your fingertips. Bring your own device on Board!</p></article>]]></description>
+            <link>http://thegrid.ai/hackerfleet/</link>
+            <guid isPermaLink="false">9317f863-ff49-43d6-8013-6c5d2f6c8388</guid>
+            <pubDate>Sat, 26 Sep 2015 10:03:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[FullHD TIMELAPSE, MS Stubnitz, from London to Dunkirk,]]></title>
@@ -69,13 +76,6 @@
 Wir sprachen auch über die Crowdfundingkampagne, um die MS Stubnitz weiter im Fahrwasser zu halten. Sie finanziert die Dockung und sichert weitere 5 Jahre des Schiffes. </p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9714ad22-801a-4e96-96ef-a21d1ae927d5.jpg"></article>]]></description>
             <link>http://hybr.de/?p=225</link>
             <guid isPermaLink="false">d0f25ae3-790b-4b3a-a849-14e00d680fe3</guid>
-            <pubDate>Sat, 25 Jul 2015 11:46:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Reprap und Makerbot: Wenn Konsumenten zu Produzenten werden]]></title>
-            <description><![CDATA[<article><h1>Reprap und Makerbot: Wenn Konsumenten zu Produzenten werden</h1><p>Reprap und Makerbot Wenn Konsumenten zu Produzenten werden Seite 2/2: In der C-Base in Mitte steht einer der wenigen Repraps Berlins. Auch er ist Inspiration, allerdings sehr viel handfester. Allein durch die Fähigkeit, sich selbst zu vervielfältigen, verbreitet die Maschine die Idee der Open-Source-Produktion.</p></article>]]></description>
-            <link>http://www.zeit.de/digital/internet/2011-02/reprap-makerbot/seite-2</link>
-            <guid isPermaLink="false">dcf8e0b8-443b-4573-b2f6-466f0c791dee</guid>
             <pubDate>Sat, 25 Jul 2015 11:46:56 GMT</pubDate>
         </item>
     </channel>
