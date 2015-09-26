@@ -18,8 +18,8 @@ author: []
 related: []
 app_links: []
 title: Hackerfleet
-datePublished: '2015-09-26T10:11:13.731Z'
-dateModified: '2015-09-26T10:10:56.074Z'
+datePublished: '2015-09-26T10:35:02.894Z'
+dateModified: '2015-09-26T10:34:55.227Z'
 sourcePath: _posts/2015-09-26-hackerfleet.md
 published: true
 authors: []
