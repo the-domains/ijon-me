@@ -25,7 +25,5 @@ color:
   lightness: 0.125
   saturation: 0.75
   rhythmicContrast: 0.5
-purpose:
-  - name: awareness
-    item: 'null'
-    url: null
+purpose: []
+github: true
